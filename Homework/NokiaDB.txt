@@ -1,0 +1,4 @@
+Model		Memory		DisplaySize		Price
+Nokia5.3	64GB		6.5			    3200
+Nokia8.1	128GB		6.8			    4500
+Nokia1280	50MB		1.2			    800

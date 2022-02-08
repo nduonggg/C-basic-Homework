@@ -1,0 +1,1 @@
+printf("%d",linearSearch(a,11,a[10]);
